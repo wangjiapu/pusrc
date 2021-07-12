@@ -1,2 +1,3 @@
+include ':stuGit'
 include ':app'
 rootProject.name = "pusrc"
